@@ -1,16 +1,16 @@
 
-### 🔎 **Objective**
+###  **Objective**
 
 The goal of this project was to analyze employee attrition and uncover the **drivers of turnover** using visualization and statistical insights.
 
 ---
 
-### 📌 **Key Insights**
+###  **Key Insights**
 
 1. **Attrition Rate:**
 
-* Overall → **17.1%**
-* By Department → Sales (22.2%), HR (19%), R\&D (14.1%)
+* Overall  **17.1%**
+* By Department Sales (22.2%), HR (19%), R\&D (14.1%)
 
 2. **Attrition vs Retention Patterns:**
 
@@ -24,7 +24,7 @@ The goal of this project was to analyze employee attrition and uncover the **dri
 
 ---
 
-### ✅ **Recommendations**
+###  **Recommendations**
 
 1. **Retention Strategy for Sales & HR**
 
