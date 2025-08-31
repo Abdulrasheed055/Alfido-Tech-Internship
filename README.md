@@ -57,6 +57,9 @@ The goal of this project was to analyze employee attrition and uncover the **dri
 * Report Summary
 
 ---
+![dasboard](https://github.com/Abdulrasheed055/Alfido-Tech-Internship/blob/main/pic1.jpg)
+![dashboar](https://github.com/Abdulrasheed055/Alfido-Tech-Internship/blob/main/pic2.jpg)
+
 
 ### ⚡ **Conclusion**
 
